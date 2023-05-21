@@ -7,7 +7,7 @@ def home():
     return 'Hello, World!'
 
 @app.route('/contact')
-def home():
+def contact():
     return 'Hello, contact!'
 
 if __name__ == '__main__':
